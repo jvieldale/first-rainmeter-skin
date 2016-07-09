@@ -1,0 +1,9 @@
+[Variables]
+FFTSize=2048
+FFTOverlap=(#FFTSize#*0.5)
+FFTAttack=100
+FFTDecay=150
+FreqMin=20
+FreqMax=6000
+Sens=35
+Channel=Avg
